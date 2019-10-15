@@ -1,0 +1,15 @@
+{
+	"name":"velliyangiri",
+	"Age":30,
+	"Email":"velli@gmail.com",
+	"website":"www.google.com",
+	"dob":13/03/1999,
+	"gender":"male/female",
+	"mobile":9677948151,
+	"color":"#000",
+	"country":["India","China","Japan","America","England","Australia","Srilanka"],
+	"language":["java","c","c++","python","javascript","html","php","nodejs"],
+	"cgpa":"1-10",
+	"file":"upload",
+	"time":"10;30PM"
+}

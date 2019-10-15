@@ -1,0 +1,10 @@
+<web-app>
+	<servlet>
+		<servlet-name>load</servlet-name>
+		<servlet-class>Get</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>load</servlet-name>
+		<url-pattern>/load</url-pattern>
+	</servlet-mapping>
+</web-app>
